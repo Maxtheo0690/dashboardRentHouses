@@ -35,7 +35,7 @@ with st.container():
   st.subheader('Especialização em Análise de Dados e IA')
   st.subheader('Disciplina Visualização de Dados', divider="gray")
   st.title("Dashboard de Aluguel de Casas")
-  st.write('Gabriel Silva - [Github - Projeto](https://github.com/gfcarvalhos/dashboardRentHouses)')
+  st.write('Maxwell Machado - [Github - Projeto](https://github.com/dashboardRentHouses)')
 
 #Primeira linha de graficos - Visao Global
 with st.container(border=True):
